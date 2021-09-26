@@ -1,0 +1,20 @@
+{
+    "name": "SJ_Supreme_Intro",
+    "description": "Standardize and save time required to create Introduction Sheets for your Qlik Sense Apps",
+    "type": "visualization",
+    "version": "1.0.0",
+    "icon": "extension",
+    "author": "Sohil Jain",
+    "homepage": "https://github.com/Sohil-Jain",
+    "keywords": "qlik-sense, visualization",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    },
+    "bundle": {
+        "id": "SJ_Supreme_Extensions",
+        "name": "SJ Supreme Bundle",
+        "description": "Customizable Qlik Sense extensions by Sohil Jain"
+    }
+}
